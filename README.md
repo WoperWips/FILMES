@@ -1,4 +1,4 @@
-Metodos:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada objeto.
+Filme:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada objeto.
 
 🚀 Começando
 Este repositório contém uma implementação simples de uma classe Filme em Java. A classe inclui os seguintes atributos:
