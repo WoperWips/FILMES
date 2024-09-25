@@ -1,4 +1,4 @@
-Filme:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada objeto.
+Filmes:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada objeto.
 
 🚀 Começando
 Este repositório contém uma implementação simples de uma classe Filme em Java. A classe inclui os seguintes atributos:
@@ -29,4 +29,4 @@ Visual Studio
 Versão 1.0 
 
 ✒️ Autores
-Herick Marlon - Trabalho Inicial - Metodos 
+Herick Marlon - Trabalho Inicial - Filmes
